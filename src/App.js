@@ -22,3 +22,7 @@ function jarda() {
 function jarda2() {
   return 0
 }
+
+function last_function() {
+  return 0
+}
