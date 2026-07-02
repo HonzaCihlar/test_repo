@@ -14,3 +14,7 @@ function App() {
 }
 
 export default App;
+
+function jarda() {
+  return 0
+}
