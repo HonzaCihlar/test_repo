@@ -16,13 +16,13 @@ function App() {
 export default App;
 
 function jarda() {
-  return 12
+  return 555
 }
 
 function jarda2() {
-  return 13
+  return 555
 }
 
 function last_function() {
-  return 15
+  return 555
 }
